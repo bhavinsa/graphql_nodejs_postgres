@@ -21,4 +21,4 @@
       }
     }
 
-##### N.B: You can find the database script inside db_'script.txt'
+##### N.B: You can find the database script inside 'db_script.txt'
